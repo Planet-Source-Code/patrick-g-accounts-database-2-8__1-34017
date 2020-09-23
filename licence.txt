@@ -1,0 +1,101 @@
+
+TOPSHOTTER SOFTWARE LICENSE AGREEMENT
+AMERICAS - ALL OTHER COUNTRIES
+
+IMPORTANT, PLEASE READ THIS FIRST. THIS IS A LICENSE AGREEMENT.
+
+TOPSHOTTER IS WILLING TO LICENSE THE ACCOMPANYING SOFTWARE TO YOU ONLY UPON THE CONDITION THAT YOU ACCEPT ALL THE TERMS CONTAINED IN THIS LICENSE AGREEMENT AND ANY SUPPLEMENTARY OR UNIQUE LICENSE TERMS INCLUDED HEREWITH ("AGREEMENT").
+
+READ THE TERMS AND CONDITIONS OF THIS AGREEMENT CAREFULLY BEFORE SELECTING THE "I ACCEPT" BUTTON AT THE BOTTOM OF THE PAGE. BY SELECTING THE "I ACCEPT" BUTTON, YOU ARE CONSENTING TO BE BOUND BY ALL THE TERMS OF THE LICENSE AGREEMENT AND THE SOFTWARE WILL BE INSTALLED. YOU MAY PRINT THIS AGREEMENT BY SELECTING "PRINT" BELOW.
+
+IF YOU ARE NOT WILLING TO BE BOUND BY THIS AGREEMENT AND YOU DO NOT AGREE TO ALL ITS TERMS AND CONDITIONS, SELECT "I REJECT" -- WHICH WILL CANCEL THE LOADING OF THE SOFTWARE -- AND, WITHIN THIRTY (30) DAYS, RETURN THIS SOFTWARE, THE SOFTWARE PACKAGE AND ALL OTHER ITEMS IN THE PACKAGE, WITH DATED PROOF OF PURCHASE TO THE LOCATION WHERE YOU ACQUIRED IT FOR A FULL REFUND. 
+
+YOUR USE OF THE SOFTWARE ALSO INDICATES YOUR ASSENT TO BE BOUND BY THE LICENSE TERMS SET FORTH HEREIN.
+
+COPYING OF THIS COMPUTER PROGRAM OR ITS DOCUMENTATION EXCEPT AS PERMITTED BY THIS LICENSE IS COPYRIGHT INFRINGEMENT UNDER THE LAWS OF YOUR COUNTRY. IF YOU COPY THIS COMPUTER PROGRAM WITHOUT PERMISSION OF TOPSHOTTER, YOU ARE VIOLATING THE LAW. YOU MAY BE LIABLE TO TOPSHOTTER FOR DAMAGES, AND YOU MAY BE SUBJECT TO CRIMINAL PENALTIES.
+	
+1. 	Grant of License 
+
+Topshotter, Inc. ("Topshotter") grants you a nonexclusive, nontransferable license to use the enclosed program (the "Software") and its printed manual and other accompanying material ("Documentation") with equipment owned by you or under your control, according to the terms and conditions of this License Agreement. This License Agreement permits a single user to install and use the Software on only one computer at one location at any one time. However, if this Software is being licensed to you for use over a network (certain products only which are identified as Network versions), you may operate the Software as a multiple-user installation with either: 
+
+(i) 	the maximum number of concurrent users being one (1) so that multiple individuals may access the Software, but that only one person at a time may do so, or 
+
+(ii) 	 the maximum number of concurrent users being two (2) or more, in which case you must buy the first complete Software package and also a specified number of licenses for each additional concurrent user.
+
+Educational & Student Versions: If this Software has been licensed and/or labeled as an Educational version, you may use it only for the purpose of training and instruction, and for no other purpose. If this Software is a Student version, it may be used only by the student who acquired it and only for study and instruction. Neither Educational nor Student versions of the Software may be used for commercial purposes.
+
+Back-Up Copy: Regardless of which version of the Software you have acquired, this License permits you to make only one archival (back-up) copy of the Software. Such archival copy may not be installed on another computer, unless such computer is a partitioned drive of a server to which only the authorized user has access. In any event, the archival copy may not be used or installed as long as another copy of the Software is installed on any computer. If the Documentation is in printed form, it may not be copied. If the Documentation is in electronic form, you may print out one (1) copy, which may not be copied.
+
+Additional Installation: You may install and use a second copy of the Software on the hard disk of a second computer you may have provided that (1) the additional copy is used only by you; (2) only one of the Software copies is in use at any one time at any one location; (3) the second copy of the Software is used exclusively with the copy protection device (if any) supplied with the Software. 
+
+Upgrades: If this Software is labeled as an upgrade to software previously licensed to you, you must destroy all copies of the software previously licensed to you replaced by this Software, including any copies resident on your hard disk drive, and return the hardware lock, if any, which accompanied the software previously licensed to you (unless Topshotter explicitly notifies you that the hardware lock is to be used with the upgrade), within sixty days of acquiring this Software. Topshotter reserves the right to require you to show satisfactory proof that previous copies of the Software have been destroyed. If the hardware lock is not returned within the stipulated period, Topshotter reserves the right, without limitation, to charge you, and you shall pay, the difference in price between the upgrade license price and the suggested retail price of this Software. Software patches, if any, provided to you by Topshotter or an authorized third party in connection with the Software licensed to you hereunder, shall be subject to the terms and conditions of this License Agreement unless otherwise specified at the time of delivery.
+
+Special UpgradeTerms for 3DStudio MAX and 3DStudio VIZ software. Notwithstanding the foregoing, you may retain and need not destroy the copy of the earlier version of 3D Studio MAX or 3 D Studio VIZ previously licensed to you and may use this earlier version solely for the purposes of 1) backward file compatibility with the upgrade or update hereby licensed; or, 2) file compatibility necessary for licensee's customer requirements.  However, you may under no circumstances operate the new and old versions concurrently on different computers.
+
+
+Lab Pack License. If the Software is licensed to you as a Lab Pack (certain products only) and you have paid the Lab Pack license fee, then you may install the Software on the number of computers and make the number of copies of the Documentation as authorized for such Lab Pack. In any event, no more than the number of copies of the Software authorized for such Lab Pack may be used simultaneously. 
+
+Authorization Code: If this Software requires an authorization code, you must register your purchase of this Software product with Topshotter before an authorization code shall be issued to you.
+DISCREET SOFTWARE: The following applies to Software and Documentation developed by Discreet, a division of Topshotter:
+3D Studio Max and 3D Studio VIZ: Notwithstanding the single-user/one-computer license granted in this License Agreement, you may install this Software on more than one computer for the exclusive purpose of network rendering of your files.
+
+3D Studio MAX and 3D Studio VIZ and products published by Topshotter which require Max or VIZ to operate ("Plug-ins"):  You may modify and make unlimited copies of the source code examples ("Source Examples") contained in the Software and any resulting binary files for the exclusive purpose of incorporation into your own works (the "User Works") and you may treat the User Works as your own creations with the following restrictions:  (1) You must clearly identify any modified source code examples and any resulting binary files as User Works developed by you, and not by Topshotter, and you must use class identifications for any classes of objects you create that are different from the class identifications used by Topshotter.  (2) You may distribute the resulting binary files of the Source Examples in User Works that are commercially distributed software applications only if: (i) such applications require 3D Studio MAX or 3D Studio VIZ to operate; and (ii) such applications contain significant features and functionality in addition to the Source Examples so that the Source Examples are not the primary source of value.  You must include the copyright notices of Topshotter, Inc. in any copy of the Source Examples and resulting binary files.
+
+3D Studio MAX and 3D Studio VIZ and products published by Topshotter which require Max or VIZ to operate ("Plug-ins"):You may modify and make unlimited copies of the individual animations, still images, and audio files contained in the Software (collectively called the "Software Files") for the sole purpose of incorporation into your own animations and still images.  In addition, you may make unlimited copies of any player included in the Software (the "Player") for purposes of playing back the User Works if you include the unmodified Topshotter copyright notice in any such copy.  You may treat the User Works as your own creations and you may distribute the Software Files subject to the following restrictions:  You must exclude MIDI files in any medium for commercial radio or television broadcast, and you may not distribute Software Files that were supplied with the Software, modified or unmodified, as a stand-alone commercial product, including, but not limited to, applications in the form of a collection or library, or as part of a software design tool, except with Topshotter's written permission.  Subject to the foregoing restrictions, you may distribute the User Works and Software Files when incorporated into commercial software applications provided that such commercial software applications contain significant features and functionality in addition to the Software Files and the Software Files are not the primary source of value. 
+
+
+2.	RESTRICTIONS: 
+
+THIS SOFTWARE MAY NOT BE USED OR TRANSFERRED OUTSIDE OF THE WESTERN HEMISPHERE (U.S, Canada, Caribbean Islands and Latin America), REGARDLESS OF WHETHER SUCH TRANSFER IS ACCOMPLISHED BY PHYSICAL OR ELECTRONIC MEANS.
+
+You May Not:
+1.	copy the Software or Documentation except as permitted by this license.
+2.	reverse engineer, decompile or disassemble the Software except to the extent permitted by law where this is indispensable to obtain the information necessary to achieve interoperability of an independently created program with the Software or with another program and such information is not readily available from Topshotter or elsewhere. You may not decompile the Software if such information is available by licensing any Topshotter Software Developer's Kit through an Authorized Topshotter Reseller or your local Topshotter office.
+3.	distribute, rent, loan, lease, sell, sublicense or otherwise transfer all or part of the Software, Documentation or any rights granted hereunder to any other person without the prior written consent of Topshotter.
+4.	remove, alter or obscure any proprietary notices, labels or marks from the Software or Documentation.
+5.	modify, translate, adapt, arrange or create derivative works based on the Software or Documentation for any purpose. 
+6.	utilize any equipment, device, software or other means designed to circumvent or remove any form of copy protection used by Topshotter in connection with the Software, or use the Software together with any hardware lock, authorization code, serial number, or other copy protection device not supplied by Topshotter directly or through an Authorized Topshotter Reseller. 
+7.	use the Software or Documentation outside of the country in which it was purchased. 
+8.	export the Software or Documentation in violation of U.S. or other applicable export control laws.
+
+3. 	Copyright 
+
+Title and copyrights to the Software, Documentation and accompanying materials and any copies made by you remain with Topshotter. Unauthorized copying of the Software or Documentation, or failure to comply with the above restrictions, will result in automatic termination of this license.
+
+4.	Limited Warranties/Year 2000 Warranty
+
+Topshotter warrants that: (1) for a 90-day period beginning on the date of delivery of the Software to you as evidenced by your receipt, the Software will provide the facilities and functions generally described in the Documentation and that the media on which the Software is furnished, the Documentation accompanying the Software, and any hardware lock or other copy protection device accompanying the Software will be free from defects in materials and workmanship under normal use, and (2) that the Software under normal use shall be able to accurately process date and time data from, into and beyond the year 2000 including leap year calculations. 
+
+EXCEPT FOR THE ABOVE EXPRESS LIMITED WARRANTIES, TOPSHOTTER MAKES AND YOU RECEIVE NO WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR IN ANY COMMUNICATION WITH YOU, AND TOPSHOTTER SPECIFICALLY DISCLAIMS ANY OTHER WARRANTY INCLUDING THE IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. TOPSHOTTER DOES NOT WARRANT THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE. The above exclusions may not apply to you as some jurisdictions do not allow the exclusion of implied warranties. In addition to the above warranty rights, you may also have other rights, which vary from jurisdiction to jurisdiction.
+
+	Topshotter's entire liability and your exclusive remedy under the warranties made in this License Agreement will be, at Topshotter's option, to attempt to correct or work around errors, to replace the defective media, documentation or copy protection device, or to refund the license fee and terminate this license. This remedy is subject to the return of the defective media, documentation or copy protection device with a copy of your receipt to your local Topshotter office or the Authorized Topshotter Reseller from whom it was obtained within ninety (90) days from the date of its delivery to you. Following expiration of this ninety (90)-day period, Topshotter will replace any defective or damaged copy protection device in return for payment of an amount which covers the cost of a replacement device plus a fee for handling and shipment.
+
+5.	Disclaimer
+
+COMPUTER-AIDED DESIGN SOFTWARE AND OTHER TECHNICAL SOFTWARE ARE TOOLS INTENDED TO BE USED BY TRAINED PROFESSIONALS ONLY. THEY ARE NOT SUBSTITUTES FOR YOUR PROFESSIONAL JUDGMENT. COMPUTER-AIDED DESIGN SOFTWARE AND OTHER TECHNICAL SOFTWARE ARE INTENDED TO ASSIST WITH PRODUCT DESIGN AND ARE NOT SUBSTITUTES FOR INDEPENDENT TESTING OF PRODUCT STRESS, SAFETY AND UTILITY. DUE TO THE LARGE VARIETY OF POTENTIAL APPLICATIONS FOR THE SOFTWARE, THE SOFTWARE HAS NOT BEEN TESTED IN ALL SITUATIONS UNDER WHICH IT MAY BE USED. TOPSHOTTER SHALL NOT BE LIABLE IN ANY MANNER WHATSOEVER FOR THE RESULTS OBTAINED THROUGH THE USE OF THE SOFTWARE. PERSONS USING THE SOFTWARE ARE RESPONSIBLE FOR THE SUPERVISION, MANAGEMENT AND CONTROL OF THE SOFTWARE. THIS RESPONSIBILITY INCLUDES, BUT IS NOT LIMITED TO, THE DETERMINATION OF APPROPRIATE USES FOR THE SOFTWARE AND THE SELECTION OF THE SOFTWARE AND OTHER PROGRAMS TO ACHIEVE INTENDED RESULTS. PERSONS USING THE SOFTWARE ARE ALSO RESPONSIBLE FOR ESTABLISHING THE ADEQUACY OF INDEPENDENT PROCEDURES FOR TESTING THE RELIABILITY AND ACCURACY OF ANY PROGRAM OUTPUT, INCLUDING ALL ITEMS DESIGNED BY USING THE SOFTWARE. 
+
+6.	LIMITATION OF LIABILITY
+
+IN NO EVENT WILL TOPSHOTTER BE LIABLE FOR ANY LOSS OR DAMAGES OF ANY KIND, INCLUDING LOSS OF DATA, LOST PROFITS, COST OF COVER OR OTHER SPECIAL, INCIDENTAL, CONSEQUENTIAL OR INDIRECT DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE OR DOCUMENTATION, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY. THIS LIMITATION WILL APPLY EVEN IF TOPSHOTTER OR ANY TOPSHOTTER RESELLER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGE. YOU ACKNOWLEDGE THAT THE LICENSE FEE REFLECTS THIS ALLOCATION OF RISK.
+
+Topshotter shall have no responsibility or liability whatsoever arising from loss or theft of the Software or of any copy protection device with which the Software is supplied. Specifically, Topshotter shall not be obligated to replace any lost or stolen software or copy protection device. You are solely responsible for safeguarding the Software and any copy protection device from loss or theft and protecting your investment through insurance or otherwise. The above limitation may not apply to you because some jurisdictions do not allow the limitation or exclusion of liability for incidental or consequential damages. 
+
+7.	Restricted Rights for U.S. Government Customers
+
+This Software and Documentation are provided with RESTRICTED RIGHTS for U.S. Government customers. Use, duplication, or disclosure by the U.S. Government is subject to restrictions as set forth in FAR 12.212 (Commercial Computer Software-Restricted Rights) and DFAR 227.7202 (Rights in Technical Data and Computer Software), as applicable. Manufacturer is Topshotter, Inc., 111 McInnis Parkway, San Rafael, California 94903.
+
+8.	Canadian Sales
+
+If you purchased this product in Canada, you agree to the following: The parties hereto confirm that it is their wish that this Agreement, as well as other documents relating hereto, including Notices, have been and shall be written in the English language only. Les parties aux présentes confirment leur volonté que cette Convention de même que tous les documents y compris tout avis qui s'y rattache, soient rédigés en langue anglaise.
+
+9.	General
+
+A. 	This license shall terminate without further notice or action by Topshotter if you, the licensee, shall become bankrupt, make an arrangement with your creditors or go into liquidation. 
+
+B. 	This Agreement shall not be governed by the UN Convention on Contracts for the Sale of Goods; rather this Agreement shall be governed by the laws of the State of California, U.S.A., including its Uniform Commercial Code without reference to conflict-of-laws principles. This Agreement is the entire agreement between us and supersedes any other communications or advertising with respect to the Software and Documentation. If you have any questions, please contact your Authorized Topshotter Reseller.
+
+C. 	If any provision of these license conditions is found to be invalid or otherwise unenforceable, the further conditions of this license will remain fully effective and the parties will be bound by obligations which approximate, as closely as possible, the effect of the provision found invalid or unenforceable, without being themselves invalid or unenforceable.
+
+D. 	If you have any questions, please send written inquiries to: Topshotter, Inc., Customer Service, 111 McInnis Parkway, San Rafael, California 94903.
+ 
+
